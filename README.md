@@ -548,6 +548,7 @@ void decipher() {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-09-04 194212](https://github.com/user-attachments/assets/03330dcf-2106-4579-adcc-537767a5ca20)
 
 ## RESULT:
 The program is executed successfully
