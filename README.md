@@ -299,7 +299,8 @@ int main() {
 
 
 ## OUTPUT:
-![Screenshot 2024-09-04 191545](https://github.com/user-attachments/assets/9b58cd05-deca-4942-97bb-794e3e075b21)
+
+![Screenshot 2024-09-05 090242](https://github.com/user-attachments/assets/7208779e-5cb5-4097-a2cd-8bba2959f61e)
 
 
 ## RESULT:
